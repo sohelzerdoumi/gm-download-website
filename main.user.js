@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Uplea
+// @name         Website Downloader
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
